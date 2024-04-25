@@ -1,2 +1,2 @@
-# goit-qaa-hw-1
+# goit-qaa-hw-07
 Repozytorium do zajęć
